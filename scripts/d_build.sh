@@ -1,0 +1,1 @@
+docker build -t srujan/jupyter -f Dockerfile .
